@@ -49,7 +49,7 @@ Explore workforce composition and key HR indicators through a high-level dashboa
 - Workforce demographics
 - Interactive department, gender, and marital-status filters
 
-![Workforce Overview Dashboard](assets/Workforce_Overview.png)
+![Workforce Overview Dashboard](https://github.com/shaikhazim153/HR-ANALYTICS-DASHBOARD/blob/main/HR%20End%20To%20End%20Project/Screenshot%202026-10-14%20223237.png)
 
 ### 02. Attrition Deep-Dive Analysis
 
@@ -63,7 +63,8 @@ Investigate how employee turnover varies across job roles, age groups, satisfact
 - Compensation-related patterns
 - Interactive filtering for detailed exploration
 
-![Attrition Deep-Dive Dashboard](assets/Attrition_DeepDive.png)
+![Attrition Deep-Dive Dashboard](https://github.com/shaikhazim153/HR-ANALYTICS-DASHBOARD/blob/main/HR%20End%20To%20End%20Project/Screenshot%202026-10-14%20223318.png
+)
 
 > **Screenshot setup:** Save your actual Power BI dashboard screenshots in the `assets` folder using the filenames shown above. If your filenames differ, update the image paths.
 
@@ -213,7 +214,7 @@ HR-Workforce-Analytics/
 I am developing practical data analytics skills by working on projects that turn raw data into meaningful insights and interactive reports. My focus is on analytical problem-solving, data visualization, and communicating findings that support better business decisions.
 
 - 💻 **GitHub:** [shaikhazim153](https://github.com/shaikhazim153)
-- 📂 **Project Repository:** [HR-Workforce-Analytics](https://github.com/shaikhazim153/HR-Workforce-Analytics)
+- 📂 **Project Repository:** [HR-Workforce-Analytics](https://github.com/shaikhazim153/HR-ANALYTICS-DASHBOARD/blob/main/HR%20End%20To%20End%20Project/Screenshot%202026-10-14%20223237.png)
 - 💼 **LinkedIn:** [Shaikh Azim](https://www.linkedin.com/)
 
 ---
